@@ -1,0 +1,81 @@
+{
+	"main": {
+		"name": "Olumide Okubanjo",
+		"description": "I am a Software Developer current studying computer science at the University of Alberta. I am looking for more experience developing and maintaining a variety of applications in order to grow in my professional field. ",
+		"image": "images/profilepic.jpg",
+		"bio": "My name is Olumide Okubanjo and I am a Software Developer, currently living in Edmonton,Alberta. I am studying Computer Science at the University of Alberta and my primary focus in my studies is Software Development. In my free time I like studying human computer interaction. I am driven and self motivated and am constantly experimenting with new technologies and algorithims. I am very passionate about Java, Python, C/C++, React, React Naitive ,and Fullstack Web development.",
+		"contactmessage": "If you wish to get in contact with me plese fill out the form below and I will get back to you shortly. My email is also there if you would prefer that method.",
+		"email": "olumide.okubanjo@gmail.com",
+		"phone": "780-340-3052",
+		"github": "https://github.com/olumideOkubanjo",
+		"linkedin": "https://www.linkedin.com/in/olumide-okubanjo/",
+		"address": {
+			"street": "3124 42A Ave",
+			"city": "Edmonton",
+			"state": "Alberta",
+			"zip": "T6T 1E2"
+		},
+		"resumedownload": "https://drive.google.com/file/d/1QwsFIMx1AbgKB8HIVu8mwijaPneMwHXq/view?usp=sharing"
+	},
+	"resume": {
+		"skillmessage": "I am exprienced and skilled in various languages shown below. ",
+		"education": [
+			{
+				"school": "University of Alberta ",
+				"degree": "BSc of Computer Engineering",
+				"graduated": "2018 - 2020",
+				"description": "Entered university as a Bachelor of Engineering student then got into Computer Engineering after my qualifying year."
+			},
+			{
+				"school": "University of Alberta",
+				"degree": "BSc of Computer Science Software Developement Specialization.",
+				"graduated": "2020 - Present",
+				"description": "I swiched into the Computer Science Specialization after my second year in University."
+			}
+		],
+		"work": [
+			{
+				"company": "Towunmi Cocker Literary Initiative",
+				"title": "Project Lead Developer",
+				"years": "November 2018 - February 2019",
+				"description": "Developed an android app that increases accessibility of books written by 100+ Nigerian authors to Nigerian youths. (Kotlin, C++, Java, CSS, Firebase Database). "
+			}
+		],
+		"skills": [
+			{
+				"name": "Python",
+				"level": "70%"
+			},
+			{
+				"name": "JavaScript / ReactJs / Redux",
+				"level": "80%"
+			},
+			{
+				"name": "C/C++",
+				"level": "70%"
+			},
+			{
+				"name": "HTML/CSS",
+				"level": "90%"
+			},
+			{
+				"name": "React Native / App Developement",
+				"level": "60%"
+			},
+			{
+				"name": "JAVA",
+				"level": "70%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "Lumide Bug Logger (Current)",
+				"category": "Currently working on a desktop software defect tracker to record emerging semantic and syntax bugs in software development",
+				"image": "images/bug.gif",
+				"url": ""
+			}
+		]
+	}
+}
