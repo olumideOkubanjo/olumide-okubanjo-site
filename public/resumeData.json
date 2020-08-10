@@ -72,9 +72,27 @@
 		"projects": [
 			{
 				"title": "Lumide Bug Logger (Current)",
-				"category": "Currently working on a desktop software defect tracker to record emerging semantic and syntax bugs in software development",
+				"category": "Currently working on a desktop software defect tracker to record emerging semantic and syntax bugs in software development.",
 				"image": "images/bug.gif",
 				"url": ""
+			},
+			{
+				"title": "Youtube App",
+				"category": "A small video searching app using the youtube API.",
+				"image": "images/youtube.jpg",
+				"url": "https://github.com/olumideOkubanjo/yt-app"
+			},
+			{
+				"title": "TCLI",
+				"category": "An android app that increases accessibility of books written by 100+ Nigerian authors to Nigerian youths.",
+				"image": "images/books.jpg",
+				"url": "https://github.com/olumideOkubanjo/TCLI-master"
+			},
+			{
+				"title": "Wellness Buddy Master",
+				"category": "An Amazon Alexa Skill that deals with keeping mental wellness a priority",
+				"image": "images/alexa.jpg",
+				"url": "https://github.com/olumideOkubanjo/Wellness-Buddy-Master"
 			}
 		]
 	}
