@@ -13,7 +13,7 @@ class Contact extends Component {
 
 	updateSucessMessage = () => {
 		this.setState({
-			sucessMessage: "Message was sent. Please don't sent send another",
+			sucessMessage: "Message was sent. Please don't spam Submit Button.",
 		});
 	};
 
