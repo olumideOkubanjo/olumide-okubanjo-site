@@ -93,6 +93,12 @@
 				"category": "An Amazon Alexa Skill that deals with keeping mental wellness a priority",
 				"image": "images/alexa.jpg",
 				"url": "https://github.com/olumideOkubanjo/Wellness-Buddy-Master"
+			}, 
+			{
+				"title": "BookShelf",
+				"category": "An android app that proves the ability to borrow books from other users.",
+				"image": "images/bookshelf.jpg",
+				"url": "https://github.com/CMPUT301F20T26/BookShelf"
 			}
 		]
 	}
